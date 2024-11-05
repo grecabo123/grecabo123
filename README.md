@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://georgieportfolio.pages.dev/](https://georgieportfolio.pages.dev/)
 
-- 💬 Ask me about **Backend,Frontend,Database Management**
+- 💬 Ask me about **Backend,Frontend,Database Management, Normalization of Database**
 
 - 📫 How to reach me **artamay1@gmail.com**
 
