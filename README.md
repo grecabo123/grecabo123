@@ -1,5 +1,7 @@
 <h3 align="center">I'm a Full Stack Developer </h3>
 
+<small>I am committed to crafting code that is clean and easily maintainable, placing a strong emphasis on teamwork and collaboration. My passion lies in simplifying complex problems through streamlined and sophisticated solutions. Staying abreast of the latest technological advancements is a cornerstone of my approach, ensuring that my work remains in line with current industry standards. Additionally, I possess extensive experience in database management and have proficiency in deploying solutions using Ubuntu, often taking the lead in setting up Virtual Private Servers (VPS).</small>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grecabo123&label=Profile%20views&color=0e75b6&style=flat" alt="grecabo123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grecabo123" alt="grecabo123" /></a> </p>
