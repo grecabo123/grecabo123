@@ -1,6 +1,6 @@
 <h3 align="center">I'm a Full Stack Developer </h3>
 
-<small>I am committed to crafting code that is clean and easily maintainable, placing a strong emphasis on teamwork and collaboration. My passion lies in simplifying complex problems through streamlined and sophisticated solutions. Staying abreast of the latest technological advancements is a cornerstone of my approach, ensuring that my work remains in line with current industry standards. Additionally, I possess extensive experience in database management and have proficiency in deploying solutions using Ubuntu, often taking the lead in setting up Virtual Private Servers (VPS).</small>
+<small>I am dedicated to writing clean, maintainable code and thrive in collaborative, team-oriented environments. My passion lies in simplifying complex challenges through elegant and efficient solutions. I prioritize staying updated with the latest technological advancements to ensure my work aligns with industry standards. With extensive experience in database management and a strong proficiency in deploying solutions on Ubuntu, I often take the lead in setting up and managing Virtual Private Servers (VPS). I am proficient using Laravel for backend and React.js for frontend </small>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grecabo123&label=Profile%20views&color=0e75b6&style=flat" alt="grecabo123" /> </p>
