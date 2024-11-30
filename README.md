@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://georgieportfolio.pages.dev/](https://georgieportfolio.pages.dev/)
 
-- 💬 Ask me about **Laravel,React js,Database Management, Normalization of Database, Collaboration or Contribution the project**
+- 💬 Ask me about **Laravel, React.js, database management, database normalization, or anything related to collaboration and contributing to projects!**
 
 - 📫 How to reach me **artamay1@gmail.com**
 
